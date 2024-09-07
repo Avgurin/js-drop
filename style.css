@@ -1,0 +1,11 @@
+.test_box_black {
+  width: 100px;
+  height: 100px;
+  background: black;
+}
+
+.test_box_red {
+  width: 100px;
+  height: 100px;
+  background: red;
+}
