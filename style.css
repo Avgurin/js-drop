@@ -2,10 +2,14 @@
   width: 100px;
   height: 100px;
   background: black;
+  border-radius: 20%;
+  transition: all 0.2s ease-out;
 }
 
 .test_box_red {
   width: 100px;
   height: 100px;
   background: red;
+  border-radius: 20%;
+  transition: all 0.2s ease-out;
 }
